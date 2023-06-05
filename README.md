@@ -3,6 +3,8 @@ MABSearch: The Bandit Way of Learning the Learning Rate - A Harmony Between Rein
 Published in: National Academy Science Letters Journal, Springer Publication [SCI Indexed].
 Link to paper: https://link.springer.com/article/10.1007/s40009-023-01292-1
 
+PDF of the paper available at: https://rdcu.be/ddJ8n
+
 How to Cite:
 Syed Shahul Hameed, A.S., Rajagopalan, N. MABSearch: The Bandit Way of Learning the Learning Rate—A Harmony Between Reinforcement Learning and Gradient Descent. Natl. Acad. Sci. Lett. (2023). https://doi.org/10.1007/s40009-023-01292-1
 
