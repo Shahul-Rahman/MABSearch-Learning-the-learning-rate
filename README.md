@@ -1,4 +1,7 @@
 # MABSearch-Learning-the-learning-rate
+
+MABSearch is an elementary/ easy to use, gradient descent based Global Optimization algorithm. It uses RL to learn the optimal learning rate for the given objective function.
+
 MABSearch: The Bandit Way of Learning the Learning Rate - A Harmony Between Reinforcement Learning and Gradient Descent
 Published in: National Academy Science Letters Journal, Springer Publication [SCI Indexed].
 Link to paper: https://link.springer.com/article/10.1007/s40009-023-01292-1
