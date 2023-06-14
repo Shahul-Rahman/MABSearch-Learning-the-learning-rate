@@ -13,8 +13,9 @@ Syed Shahul Hameed, A.S., Rajagopalan, N. MABSearch: The Bandit Way of Learning 
 
 How to Use:
 There are two ipython jupyter notebook in this repository. 
-1. An experiment ready version titled as: "MABSearch (Experiment Ready Version).ipynb". This note book has all the GD and the proposed MABSearch algroithm.
-2. An easier to understand version titled as: "MABSearch.ipynb", with comments explaining the proposed MABSearch algorithm alone. 
+0. No special prerequisite packages are required. The notebook can be downloaded and executed or the code can be simply copied.
+1. An experiment-ready version titled as: "MABSearch (Experiment Ready Version).ipynb". This note book has all the GD and the proposed MABSearch algroithm.
+2. An easier-to-understand version titled as: "MABSearch.ipynb", with comments explaining the proposed MABSearch algorithm alone. 
 
 For Any suggestions or doubt mail to: shahulshan81@gmail.com
 Cite the paper, if you find it useful.
