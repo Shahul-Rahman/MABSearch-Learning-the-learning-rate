@@ -8,6 +8,8 @@ Link to paper: https://link.springer.com/article/10.1007/s40009-023-01292-1
 
 PDF of the full paper available at: https://rdcu.be/ddJ8n
 
+What is Optimization (Video Explanation): https://www.youtube.com/watch?v=Gu7si5T0z_w
+
 How to Cite:
 Syed Shahul Hameed, A.S., Rajagopalan, N. MABSearch: The Bandit Way of Learning the Learning Rate—A Harmony Between Reinforcement Learning and Gradient Descent. Natl. Acad. Sci. Lett. (2023). https://doi.org/10.1007/s40009-023-01292-1
 
